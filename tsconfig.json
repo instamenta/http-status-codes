@@ -1,9 +1,13 @@
 {
   "compilerOptions": {
-    "target": "ES6",
+    "target": "ES2022",
     "module": "CommonJS",
     "outDir": "./dist",
     "declaration": true,
-    "strict": true
+    "strict": true,
+    "noUncheckedIndexedAccess": true,
+    "noEmit": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true
   }
 }
