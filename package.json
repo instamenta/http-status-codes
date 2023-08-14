@@ -1,9 +1,9 @@
 {
   "name": "@instamenta/http-status-codes",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "http status codes for javascript and typescript router responses ",
-  "main": "index.js",
-  "types": "./types/index.d.ts",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,5 +18,8 @@
     "ts"
   ],
   "author": "instamenta",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
 }
