@@ -1,0 +1,21 @@
+{
+  "name": "@instamenta/http-status-codes",
+  "version": "1.0.0",
+  "description": "http status codes for javascript and typescript router responses ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "http",
+    "status",
+    "codes",
+    "express",
+    "javascript",
+    "js",
+    "typescript",
+    "ts"
+  ],
+  "author": "instamenta",
+  "license": "MIT"
+}
