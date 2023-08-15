@@ -1,12 +1,11 @@
 {
   "name": "@instamenta/http-status-codes",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "http status codes for javascript and typescript router responses ",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "module": "dist/index.mjs",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsup index.ts --format cjs,esm --dts",
     "lint": "tsc"
   },
