@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fe24f559-f0c4-4719-ab6e-2f0c95352973" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/publish.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/publish.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +63,7 @@
       <updated>1692043418426</updated>
       <workItem from="1692043420273" duration="2429000" />
       <workItem from="1692079681486" duration="459000" />
-      <workItem from="1692080155662" duration="1703000" />
+      <workItem from="1692080155662" duration="1796000" />
     </task>
     <servers />
   </component>
