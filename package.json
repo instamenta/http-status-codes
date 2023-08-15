@@ -1,13 +1,19 @@
 {
   "name": "@instamenta/http-status-codes",
-  "version": "1.0.6",
+  "version": "1.0.8",
   "description": "http status codes for javascript and typescript router responses ",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
-  "module": "dist/index.mjs",
+  "module": "./dist/index.mjs",
   "scripts": {
     "build": "tsup index.ts --format cjs,esm --dts",
     "lint": "tsc"
+  },
+  "exports": {
+    ".": {
+      "import": "./dist/index.js",
+      "types": "./dist/index.d.ts"
+    }
   },
   "keywords": [
     "http",
