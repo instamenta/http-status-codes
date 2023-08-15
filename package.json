@@ -1,6 +1,6 @@
 {
   "name": "@instamenta/http-status-codes",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "http status codes for javascript and typescript router responses ",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
