@@ -5,17 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fe24f559-f0c4-4719-ab6e-2f0c95352973" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.changeset/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.changeset/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.d.mts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.mjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/cjs/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/cjs/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/cjs/types/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/cjs/types/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/cjs/types/index.d.ts.map" beforeDir="false" afterPath="$PROJECT_DIR$/lib/cjs/types/index.d.ts.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/esm/index.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/lib/esm/index.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/esm/types/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/esm/types/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/esm/types/index.d.ts.map" beforeDir="false" afterPath="$PROJECT_DIR$/lib/esm/types/index.d.ts.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +80,9 @@
       <workItem from="1692080155662" duration="1877000" />
       <workItem from="1692096742038" duration="7656000" />
       <workItem from="1692107274346" duration="1014000" />
-      <workItem from="1692127527636" duration="712000" />
+      <workItem from="1692127527636" duration="1020000" />
+      <workItem from="1692128844456" duration="788000" />
+      <workItem from="1692194261216" duration="203000" />
     </task>
     <servers />
   </component>
